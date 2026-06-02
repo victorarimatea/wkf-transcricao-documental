@@ -1,0 +1,10 @@
+# execucoes/
+
+Pasta reservada para logs de execução do workflow W01.
+
+Cada execução registrada gera um arquivo no formato:
+`AAAA-MM-DD-[contexto].md`
+
+Exemplo: `2026-06-02-D01-transcricao-fase1-fase2.md`
+
+Os logs são criados automaticamente pela S04 em sessões autenticadas.
