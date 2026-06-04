@@ -19,10 +19,10 @@ ele existe, quem o usa, quais etapas envolvem automação e quais ainda são man
 e acumula o histórico de todas as execuções realizadas.
 
 **Para as instruções técnicas de execução pela IA**, consulte a skill associada:
-→ [skill-transcricao-documental (S05)](https://github.com/victorarimatea/skill-transcricao-documental)
+→ [skill-transcricao-documental (S05)](https://github.com/victorarimatea/skl-transcricao-documental)
 
 **Para os documentos produzidos por este workflow**, consulte:
-→ [governanca-ses-df (D01)](https://github.com/victorarimatea/governanca-ses-df)
+→ [governanca-ses-df (D01)](https://github.com/victorarimatea/doc-governanca-ses-df)
 
 ---
 
